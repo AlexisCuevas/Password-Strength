@@ -60,3 +60,8 @@ input:hover, input:focus {
     box-shadow: none;
     background: white;
 }
+
+p {
+  color: #ffffff;
+  text-align: center;
+}
